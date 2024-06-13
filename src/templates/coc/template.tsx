@@ -8,7 +8,7 @@ const containerStyle = css`
   background-size: cover;
   color: #000;
   font-size: 25px;\start\repos\Darkom792\render_dany
-  padding: 15px;
+  padding: 16px;
   margin: auto;
   width: 98%;
   height: 612px;
